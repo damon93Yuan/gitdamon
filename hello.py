@@ -1,2 +1,1 @@
-# this is my first py in git.
-print('hello world.')
+print('Git is a free software.')
